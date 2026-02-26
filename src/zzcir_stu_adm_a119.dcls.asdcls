@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZZCIR_STU_ADM_A119'
+@MappingRole: true
+define role ZZCIR_STU_ADM_A119 {
+  grant select on ZZCIR_STU_ADM_A119
+  where TRUE;
+}
